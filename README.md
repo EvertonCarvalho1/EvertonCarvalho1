@@ -17,7 +17,7 @@ Desenvolvedor curioso, sempre procurando aprender mais.
 ![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Linux-E95420?logo=linux&logoColor=white&style=plastic)
+
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EvertonCarvalho1&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
