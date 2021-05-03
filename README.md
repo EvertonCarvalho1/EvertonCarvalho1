@@ -1,10 +1,16 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+# Everton Carvalho
 
-The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
-Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
+## Olá pessoal 👋
 
-Feel free to add your own or someone else's profile README if you find it super awesome! 
+Sou um FullStack Developer :computer:
+<br />
+Adoro promover soluções utilizando a programação!
 
-Don't forget to leave a if you find this repo useful ⭐
-
-Thankyou🎆
+:rocket: &nbsp; Buscando novos desafios
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos desafiadores
+<br/> :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
+<br /> :blue_book: &nbsp; Estudando: ReactJS, Node.js, React Native & Typescript
+<br/> 💬 &nbsp; Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar LoL com amigos, aprecio um bom café, séries e momentos com a família.
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-KarolineTakahagassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/karoltaka/)](https://www.linkedin.com/in/karoline-takahagassi-b9ba4b1ab/)
+|
+[![Gmail Badge](https://img.shields.io/badge/-takahagassi.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:takahagassi.dev@gmail.com)](mailto:takahagassi.dev@gmail.com)
