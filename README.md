@@ -3,8 +3,11 @@
 Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com meu trabalho é o que me motiva.
 
 🚀   Buscando novos desafios
+
 👨‍💻   Buscando colaborar com projetos desafiadores
+
 💻   Minha stack: HTML, CSS e JavaScript
+
 📫   Estudando: ReactJS, Node.js
 
 
@@ -27,7 +30,7 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 
 ## GITHUB
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EvertonCarvalho1&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonCarvalho1&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=EvertonCarvalho1&show_icons=true" alt="EvertonCarvalho1"/> 
 
 
