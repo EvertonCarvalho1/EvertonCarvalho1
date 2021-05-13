@@ -1,6 +1,12 @@
 #  Everton Carvalho
 
-Desenvolvedor curioso, sempre procurando aprender mais.
+Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com meu trabalho é o que me motiva.
+
+🚀   Buscando novos desafios
+👨‍💻   Buscando colaborar com projetos desafiadores
+💻   Minha stack: HTML, CSS e JavaScript
+📫   Estudando: ReactJS, Node.js
+
 
 
 
