@@ -29,8 +29,8 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 
-## GITHUB
+## GITHUB STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=EvertonCarvalho1&show_icons=true" alt="EvertonCarvalho1"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=EvertonCarvalho1&show_icons=true" alt="EvertonCarvalho1" align="center"/> 
 
 
