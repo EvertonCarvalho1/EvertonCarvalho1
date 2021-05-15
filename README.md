@@ -8,7 +8,7 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 💻   Minha stack: HTML, CSS e JavaScript
 
-📫   Estudando: ReactJS, Node.js
+📫   Estudando: Node.js
 
 
 
