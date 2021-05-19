@@ -4,8 +4,6 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 🚀   Buscando novos desafios
 
-👨‍💻   Buscando colaborar com projetos desafiadores
-
 💻   Minha stack: HTML, CSS e JavaScript
 
 📫   Estudando: Node.js
