@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Everton!](https://www.linkedin.com/in/everton-carvalho-9395a6137/)
 
-Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com meu trabalho é o que me motiva. 
+Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com meu trabalho é o que me motiva.
 
 
 
