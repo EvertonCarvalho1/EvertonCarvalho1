@@ -15,7 +15,7 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 - 💌 Entre em contato caso queira conversar ou desenvolver um projeto comigo:
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/EvertonCarvalho1)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959766136)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/everton-carvalho-9395a6137/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:toncarvalhosk@gmail.com)
 
