@@ -8,7 +8,9 @@ Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Fac
 
 - 🚀 Buscando novos desafios
 
-- 💻 Minhas stacks: React.js, Node.js, HTML, CSS e JavaScript.
+- 💻 Skills: HTML, CSS3, Bootstrap, JavaScript, React, Node ...
+
+- 💼 Ferramentas: VS Code, Git, GitHub, Insomnia ...
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/EvertonCarvalho1)
