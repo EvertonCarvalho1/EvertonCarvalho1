@@ -12,7 +12,7 @@
 
 <h2 >About me</h2>
 
-I am currently a Front-end developer at Conecto Sistemas and I am also a student of Systems Analysis and Development.
+Currently I work as a Front-end developer at Conecto Sistemas and I am also a student of Systems Analysis and Development.
 
 I love to learn new things, work in a team and solve problems. Making people's lives easier with my work is what motivates me.
 
