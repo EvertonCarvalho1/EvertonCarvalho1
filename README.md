@@ -1,10 +1,10 @@
 <p>
-  <h1 ><b>Hi there, I'm Everton 👋</h1>
+  <h1 align="center"><b>Hi there, I'm Everton 👋</h1>
 </p>
 
-<p >
+<p align="center">
  <a href="https://www.linkedin.com/in/everton-carvalho-9395a6137/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto: everton.carvalho.dc@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
