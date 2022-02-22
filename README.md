@@ -40,6 +40,7 @@ I love to learn new things, work in a team and solve problems. Making people's l
 <img src="https://github-readme-stats-amir-yusoff.vercel.app/api/top-langs/?username=EvertonCarvalho1&layout=compact&hide_border=true&theme=dark" width="400" />
 
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=EvertonCarvalho1&color=grey"/></p>
 
 ---
 
