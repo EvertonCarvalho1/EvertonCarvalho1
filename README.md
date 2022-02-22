@@ -1,27 +1,30 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's me, [Everton!](https://www.linkedin.com/in/everton-carvalho-9395a6137/)
 
-Gosto de aprender coisas novas, de trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com meu trabalho é o que me motiva.
+I like to learn new things, work in a team and solve problems. Making people's lives easier with my work is what motivates me.
 
 
+## About me
+- 🔥 Front-end developer at Conecto
+- 🚀 Always looking to learn more
+- 💻 Skills: React.js, TypeScript, JavaScript, HTML, CSS, SASS
+- 💼 Tools: VS Code, Git, GitHub, Insomnia
 
-## Sobre mim
+<br>
 
-- 🚀 Buscando novos desafios
+## 🛠 &nbsp;Tech Stack
 
-- 💻 Skills: React.js, JavaScript, HTML, CSS, SASS...
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-- 💼 Ferramentas: VS Code, Git, GitHub, GitLab Insomnia...
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
+<br>
 
-- 💌 Entre em contato caso queira conversar ou desenvolver um projeto comigo:
-
-
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511959766136)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-carvalho-9395a6137/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toncarvalhosk@gmail.com)
-
-
-
-## Status do meu GitHub
+## GitHub Analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EvertonCarvalho1&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&bg_color=#7d0a29
