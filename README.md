@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Oi, eu sou o Everton 👋</h1>
+  <h1 align="center"><b>Hello world, I'm Everton 👋</h1>
 </p>
 
 <p align="center">
