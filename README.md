@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-<h2 >About me</h2>
+<h2 >Sobre mim</h2>
 
 Atualmente trabalho como desenvolvedor Front-end na Conecto Sistemas e também sou estudante de Análise e Desenvolvimento de Sistemas.
 
