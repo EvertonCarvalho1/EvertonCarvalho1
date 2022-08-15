@@ -12,7 +12,7 @@
 
 <h2 >Sobre mim</h2>
 
-Atualmente trabalho como desenvolvedor Front-end na Conecto Sistemas e também sou estudante de Análise e Desenvolvimento de Sistemas.
+Atualmente trabalho como desenvolvedor Front-end na Conecto e sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Adoro aprender coisas novas, trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com o meu trabalho é o que me motiva.
 
