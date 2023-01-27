@@ -12,9 +12,13 @@
 
 <h2 >Sobre mim</h2>
 
-Atualmente trabalho como desenvolvedor Front-end na Conecto e sou estudante de Análise e Desenvolvimento de Sistemas.
+Atualmente, atuo como desenvolvedor de front-end e tenho experiência em tecnologias como ReactJS, React Native, TypeScript e JavaScript.
 
-Adoro aprender coisas novas, trabalhar em equipe e resolver problemas. Facilitar a vida das pessoas com o meu trabalho é o que me motiva.
+Além disso, tenho conhecimento no desenvolvimento back-end utilizando NodeJS, PostgreSQL e SQLite.
+
+Tenho experiência no consumo de APIs Rest, utilização de metodologias ágeis Scrum/Kanban e controle de versão utilizando Git/Github.
+
+Gosto de aprender coisas novas, trabalhar em equipe e resolver problemas. O que me motiva é a possibilidade de tornar a vida das pessoas mais fácil através do meu trabalho.
 
 </br>
 
