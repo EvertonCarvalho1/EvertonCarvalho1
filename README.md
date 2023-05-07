@@ -13,7 +13,7 @@
 <h2><strong>🚀 About me</strong></h2>
 <br>
 
-<h3> 
+<p> 
 Currently, I work as a front-end developer and have experience in technologies such as ReactJS, React Native, TypeScript and JavaScript.
 
 In addition, I have knowledge in back-end development using NodeJS, PostgreSQL and SQLite.
@@ -21,7 +21,7 @@ In addition, I have knowledge in back-end development using NodeJS, PostgreSQL a
 I have experience in consuming Rest APIs, using agile Scrum/Kanban methodologies and version control using Git/Github.
 
 I like to learn new things, work as a team and solve problems. What motivates me is the possibility of making people's lives easier through my work.
-</h3>
+</p>
 
 <br>
 
