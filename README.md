@@ -1,6 +1,6 @@
-<p>
-  <h1 align="center"><b>Hello world, I'm Everton 👋</h1>
-</p>
+
+<h1 align="center"><b>Hello world, I'm Everton 👋</h1>
+  
 
 <p align="center">
  <a href="https://www.linkedin.com/in/everton-carvalho-9395a6137/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -8,24 +8,25 @@
   <a href="mailto: everton.carvalho.dc@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-<br/>
+<br>
 
-<h2 >Sobre mim</h2>
+<h2><strong>🚀 About me</strong></h2>
+<br>
 
-Atualmente, atuo como desenvolvedor de front-end e tenho experiência em tecnologias como ReactJS, React Native, TypeScript e JavaScript.
+<h3> 
+Currently, I work as a front-end developer and have experience in technologies such as ReactJS, React Native, TypeScript and JavaScript.
 
-Além disso, tenho conhecimento no desenvolvimento back-end utilizando NodeJS, PostgreSQL e SQLite.
+In addition, I have knowledge in back-end development using NodeJS, PostgreSQL and SQLite.
 
-Tenho experiência no consumo de APIs Rest, utilização de metodologias ágeis Scrum/Kanban e controle de versão utilizando Git/Github.
+I have experience in consuming Rest APIs, using agile Scrum/Kanban methodologies and version control using Git/Github.
 
-Gosto de aprender coisas novas, trabalhar em equipe e resolver problemas. O que me motiva é a possibilidade de tornar a vida das pessoas mais fácil através do meu trabalho.
+I like to learn new things, work as a team and solve problems. What motivates me is the possibility of making people's lives easier through my work.
+</h3>
 
-</br>
+<br>
 
-</br>
-<p>
-<h3 >⚡Linguagens e ferramentas</h3>
-</p>
+<h2><strong>⚡ Languages & tools</strong></h2>
+<br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;&nbsp;
@@ -52,7 +53,7 @@ Gosto de aprender coisas novas, trabalhar em equipe e resolver problemas. O que 
 <h3 align="center">📊 GitHub Stats</h3>
 </p>
 
-<br />
+<br>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvertonCarvalho1&theme=dark&count_private=true&theme=dark&hide_border=true" width="400" />
 </p>
@@ -63,7 +64,3 @@ Gosto de aprender coisas novas, trabalhar em equipe e resolver problemas. O que 
 </p>
 
 ---
-
-
-
-
